@@ -76,7 +76,7 @@ After the categories change, all the gifts are wrong, so the inventory is reset 
 ## Running it
 
 ```bash
-python santa.py
+python CodeKringle_Naughty_Nice_Analytics_Engine.py
 ```
 
 You need Python 3. There is nothing to install — the program only uses `random` and `os`, which come with Python.
